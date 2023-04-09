@@ -1,0 +1,22 @@
+{
+  "name": "simple-api-for-quota-validation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RysSuzuki/simple-api-for-quota-validation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RysSuzuki/simple-api-for-quota-validation/issues"
+  },
+  "homepage": "https://github.com/RysSuzuki/simple-api-for-quota-validation#readme",
+  "dependencies": {
+    "serverless": "^3.30.1"
+  }
+}

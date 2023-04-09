@@ -1,1 +1,0 @@
-# simple-api-for-quota-validation
